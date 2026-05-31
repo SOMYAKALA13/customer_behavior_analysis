@@ -64,3 +64,4 @@ Built an interactive dashboard showing:
 - 🚚 **Express shipping** customers tend to spend more
 - 🔄 Majority of customers fall under **Loyal** segment
 - 🏷️ Discount usage does not significantly reduce spending amounts
+<img width="1165" height="634" alt="Screenshot 2026-05-31 115647" src="https://github.com/user-attachments/assets/c9f897ae-73a2-4a79-8b3d-44b27fd78f8e" />
